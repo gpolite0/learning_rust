@@ -1,5 +1,5 @@
 # learning_rust
-Learning how to code using Rust!
+Learning how to code in Rust!
 
 Here are the resources I used/am using:
 - [The Rust Book](https://doc.rust-lang.org/book/)
